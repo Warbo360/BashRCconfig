@@ -5,6 +5,7 @@ case $- in
 esac
 
 # Path to your oh-my-bash installation.
+# Be sure to change 'walter-betz' to whatever path is needed on your system
 export OSH='/home/walter-betz/.oh-my-bash'
 
 # Set name of the theme to load. Optionally, if you set this to "random"
